@@ -1,18 +1,21 @@
 ### Hi there 👋, I'm Farjana Sultana
-## I'm an Android Application Developer!!
+## I'm Software and Website Developer!!
 SKILLS ->  PHP / JAVASCRIPT / HTML / CSS / LARAVEL
 
-- 🔭 Currenty i am working as an Software Engineer BIGM RESOURCES LTD (http://www.bigm-bd.com/). 
+- 🔭 Currenty I am working as a Software Engineer at BIGM RESOURCES LTD (http://www.bigm-bd.com/). 
 - 🌱 I’m currently learning Laravel  
-- 💬 Ask me about Software Development, Programming Language, Database. 
+- 💬 Ask me about Software Development, Programming Language, MYSQL Database. 
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like outdoor games like badminton
 - 👯 I’m looking to collaborate with other developer
 
 ### Connect with me:
 [github]: https://github.com/farjana009
+[linkedin]: https://www.linkedin.com/in/farjana009/
+
 
 [<img align="left" alt="farjana009 | github" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Uu0auB-_30X62d-vUYM-jhN4TkqPqgv6A&usqp=CAU" />][github]
+[<img align="left" alt="tanimul | LinkedIn" width="30px" src="https://www.citypng.com/public/uploads/preview/hd-square-white-outline-linkedin-icon-png-31624155196exv4kdg0si.png" />][linkedin]
 <br />
 
 ### Languages and Tools:
