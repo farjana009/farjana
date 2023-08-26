@@ -2,7 +2,7 @@
 ## I'm Software and Website Developer!!
 SKILLS ->  PHP / JAVASCRIPT / HTML / CSS / LARAVEL
 
-- 🔭 Currenty I am working as a Software Engineer at BIGM RESOURCES LTD (http://www.bigm-bd.com/). 
+- 🔭 Currenty I am working as a Senior Software Engineer at BIGM RESOURCES LTD (http://www.bigm-bd.com/). 
 - 🌱 I’m currently learning Laravel  
 - 💬 Ask me about Software Development, Programming Language, MYSQL Database. 
 - 🥅 2023 Goals: Contribute more to Open Source projects
